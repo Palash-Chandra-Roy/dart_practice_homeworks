@@ -8,7 +8,7 @@ void main() {
 }
 
 
-/**
+/*
  // Make Capitalize using extension (Example)
 
 extension on String {
